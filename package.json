@@ -1,5 +1,5 @@
 {
-  "name": "actions-on-google",
+  "name": "@botswagger/actions-on-google",
   "description": "Actions on Google Client Library for Node.js",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
